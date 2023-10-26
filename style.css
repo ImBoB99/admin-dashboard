@@ -30,12 +30,12 @@
     height: 50px;
 }
 
-.nav-image, .dashboard-icon {
+.nav-image, .dashboard-icon, .project-icon {
     width: 30px;
     height: 30px;
 }
 
-.profile-picture {
-    width: 45px;
-    height: 45px;
+.profile-picture, .trending-picture {
+    width: 55px;
+    height: 55px;
 }
